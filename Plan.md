@@ -1,4 +1,4 @@
-Perfect timing, Martin — this **ICP Bitcoin DeFi Hackathon** is *exactly* the kind of event that can help you showcase your growing blockchain + Web3 skills while building something that has real-world potential.
+8Perfect timing, Martin — this **ICP Bitcoin DeFi Hackathon** is *exactly* the kind of event that can help you showcase your growing blockchain + Web3 skills while building something that has real-world potential.
 
 Let’s design a **clear, 4-week roadmap and idea plan** for you 👇
 
@@ -157,6 +157,4 @@ It’s:
 
 ---
 
-Would you like me to create a **one-paragraph project description + name** for your chosen idea (so you can paste it into the Encode project form right now)?
-If yes — which direction do you want to go with:
-**(1) BTC Savings Vault**, **(2) BTC–SOL Swaps**, or **(3) Bitcoin Payment Gateway**?
+
