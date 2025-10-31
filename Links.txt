@@ -1,2 +1,5 @@
 https://docs.bitcoindefi.dev/ckbtc.html
 https://docs.bitcoindefi.dev/sign-in-bitcoin.html
+
+Add links to smart contract writing 
+involve changes about Motoko and Bitcoin core versions to liase with.
