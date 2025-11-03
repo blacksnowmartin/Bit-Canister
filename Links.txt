@@ -6,3 +6,5 @@ involve changes about Motoko and Bitcoin core versions to liase with.
 QR code for building Bitcoin Defi is in timestamp 29:28 of the workshop video session.
 Study the materials on deploying using ICP Ninja 
 in https://github.com/dfinity/examples/rust/basic-bitcoin
+
+Setting up BTC developer environment using https://docs.bitcoindefi.dev instructions
