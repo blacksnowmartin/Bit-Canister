@@ -3,3 +3,4 @@ https://docs.bitcoindefi.dev/sign-in-bitcoin.html
 
 Add links to smart contract writing 
 involve changes about Motoko and Bitcoin core versions to liase with.
+QR code for building Bitcoin Defi is in timestamp 29:28 of the workshop video session.
