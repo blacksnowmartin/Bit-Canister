@@ -8,3 +8,7 @@ Study the materials on deploying using ICP Ninja
 in https://github.com/dfinity/examples/rust/basic-bitcoin
 
 Setting up BTC developer environment using https://docs.bitcoindefi.dev instructions
+
+NB: For Motoko projects, you will also need to:
+Install the Motoko package manager Mops:
+npm i -g ic-mops
