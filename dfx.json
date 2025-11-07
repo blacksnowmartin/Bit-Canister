@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "canisters": {
+    "satoshi_vault": {
+      "type": "rust",
+      "package": "satoshi_vault",
+      "candid": "src/satoshi_vault.did",
+      "dependencies": [
+        "ckbtc_ledger",
+        "ckbtc_minter"
+      ]
+    },
+    "ckbtc_ledger": {
+      "type": "custom",
+      "candid": "https://raw.githubusercontent.com/dfinity/ic/master/rs/bitcoin/ckbtc/ledger/ledger.did",
+      "wasm": "https://download.dfinity.systems/ic/30d12422c2e57923116389a89e1949d78c0d9b5e/canisters/ic-ckbtc-ledger.wasm.gz",
+      "specified_id": "mxzaz-hqaaa-aaaar-qaada-cai"
+    },
+    "ckbtc_minter": {
+      "type": "custom",
+      "candid": "https://raw.githubusercontent.com/dfinity/ic/master/rs/bitcoin/ckbtc/minter/minter.did",
+      "wasm": "https://download.dfinity.systems/ic/30d12422c2e57923116389a89e1949d78c0d9b5e/canisters/ic-ckbtc-minter.wasm.gz",
+      "specified_id": "mqygn-kiaaa-aaaar-qaadq-cai"
+    }
+  },
+  "networks": {
+    "local": {
+      "bind": "127.0.0.1:8080"
+    }
+  }
+}
+

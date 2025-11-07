@@ -1,0 +1,17 @@
+[package]
+name = "satoshi_vault"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+ic-cdk = "0.14.0"
+ic-cdk-macros = "0.14.0"
+serde = { version = "1.0", features = ["derive"] }
+serde_bytes = "1.0"
+candid = "0.10.4"
+ic-stable-structures = "0.6.0"
+bincode = "1.3"
+
