@@ -1,8 +1,0 @@
-target/
-.dfx/
-*.wasm
-*.wasm.gz
-*.did
-*.pem
-.DS_Store
-
