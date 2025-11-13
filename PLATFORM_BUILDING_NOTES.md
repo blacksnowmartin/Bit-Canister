@@ -790,3 +790,4 @@ fn validate_backup_address(address: &str, network: bitcoin::Network) -> Result<A
 **Purpose**: Guide for building Satoshi Vault on ICP platform
 **Next Steps**: Start implementing persistent storage and vault management API
 
+Queried by Blacksnow Martin.
